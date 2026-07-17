@@ -68,13 +68,14 @@ CyberVigil/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CyberVigil.git
+git clone https://github.com/ChromaticStars/CyberVigil.git
 ```
 
 Navigate to the project folder
 
 ```bash
 cd CyberVigil
+cd IDS Project Files
 ```
 
 (Optional) Create a virtual environment
@@ -145,7 +146,10 @@ The generated report contains:
 - Multi-interface monitoring
 
 ---
+## Tested On
 
+- Kali Linux 
+Developed by – Ahana Sharma
 Industrial Training Project – Network Intrusion Detection System
 
 ---
