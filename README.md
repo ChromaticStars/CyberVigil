@@ -3,6 +3,9 @@
 CyberVigil is a lightweight Signature-Based Network Intrusion Detection System (IDS) developed in Python using Scapy and Tkinter. It monitors live network traffic, detects predefined attack signatures, logs intrusion events, and provides a modern graphical dashboard for real-time monitoring.
 
 ---
+# Dashboard
+
+![CyberVigil Dashboard](Dashboard.png)
 
 ## Features
 
