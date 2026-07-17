@@ -42,27 +42,6 @@ CyberVigil currently detects:
 
 ---
 
-## Project Structure
-
-```
-CyberVigil/
-│
-├── main.py
-├── capture.py
-├── parser.py
-├── detector.py
-├── logger.py
-├── report.py
-├── stats.py
-├── gui.py
-├── config.py
-├── requirements.txt
-├── ids_report.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 Clone the repository
