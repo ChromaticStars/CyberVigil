@@ -130,9 +130,9 @@ The generated report contains:
 ---
 ## Tested On
 
-- Kali Linux 
-Developed by – Ahana Sharma
-Industrial Training Project – Network Intrusion Detection System
+- Kali Linux
+- Developed by – Ahana Sharma
+- Industrial Training Project – Network Intrusion Detection System
 
 ---
 
